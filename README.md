@@ -1,4 +1,6 @@
-# radfemmasha| Plugin | README |
+# radfemmasha
+
+| Plugin | README |
 | ------ | ------ |
 | Dropbox | [plugins/dropbox/README.md][PlDb] |
 | GitHub | [plugins/github/README.md][PlGh] |
